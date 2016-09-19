@@ -1,0 +1,15 @@
+{
+  "name": "iphone-stock-check-uk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^4.6.1",
+    "repeat": "0.0.6"
+  }
+}
